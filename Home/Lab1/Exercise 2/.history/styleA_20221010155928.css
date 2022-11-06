@@ -1,0 +1,12 @@
+body {
+  flex-direction: column;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  font-size: 30px;
+}
+
+.square {
+  width: 120px;
+  height: 120px;
+}

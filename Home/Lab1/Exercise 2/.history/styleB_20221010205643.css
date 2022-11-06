@@ -1,0 +1,12 @@
+body {
+  flex-direction: column;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  font-size: 22px;
+}
+
+.squareb {
+  margin-top: 200px;
+  margin-bottom: -100px;
+}

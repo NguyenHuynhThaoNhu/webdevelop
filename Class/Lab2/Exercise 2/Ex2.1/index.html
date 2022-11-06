@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<body>
+<label>StudentName:
+<input type="text" id="txtName" />
+</label>
+<br>
+<button type="submit">Submit</button>
+<button type=" button" value="delete"
+onclick="deleteSomething()">Delete</button>
+<script>
+   function deleteSomething(secondValue) {
+      alert("I am going to clear text box data only...");
+      document.getElementById("txtName").value = "";
+   }
+</script>
+
+</body>
+</html>

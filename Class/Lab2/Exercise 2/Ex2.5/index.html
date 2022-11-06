@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Hilight Bold Words </title>
+  </head>
+  <body>
+    
+    <h2 onMouseOver="highlight()" onMouseOut="returnNormal()" style="color: rgb(255, 191, 0); cursor: pointer">  Click </h2>
+    
+    <p style="font-size: 20px;">
+      If I <strong> could change, </strong> the <strong> alphabet, </strong> I would put <strong> U and I, </strong> together.  </strong>
+    </p>
+
+    <script type="text/javascript">
+      function highlight() {
+        var hi = document.getElementsByTagName("strong");
+        for (var i = 0; i < hi.length; i++) {
+        hi[i].style.backgroundColor = "orange";
+        }
+      }
+      function returnNormal() {
+        var hi = document.getElementsByTagName("strong");
+        for (var i = 0; i < hi.length; i++) {
+        hi[i].style.backgroundColor = "white";
+        }
+      }
+    </script>
+  </body>
+</html>

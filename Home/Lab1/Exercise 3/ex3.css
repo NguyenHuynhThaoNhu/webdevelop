@@ -1,0 +1,133 @@
+
+.img {
+    width: 90%;
+    height: 20%;
+    margin-left: 80px;
+}
+
+.li {
+    margin-left: 80px;
+    margin-top: 30px;
+}
+
+.subcribe {
+    margin-left: 85px;
+}
+
+.tit {
+    margin-left: 80px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.date {
+    display: flex;
+    /* align-items: center; */
+    /* justify-content: center; */
+}
+
+.leftdate {
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.rightdate {
+    margin-left: 5px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+.left {
+    display: flex;
+    border-left: 1px solid black;
+    height: 18px;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+.exa {
+    padding-left: 80px;
+    padding-top: 20px;
+}
+
+.text {
+    margin-left: 80px;
+}
+
+.text2 {
+    margin-left: 80px;
+    margin-top: -20px;
+    margin-bottom: 50px;
+}
+.text3 {
+    margin-left: 80px;
+}
+.text4{
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.text5{
+    margin-left: 80px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.hihi {
+    margin-left: 80px;
+    font-size: 14px;
+}
+
+.hihu {
+    margin-left: 80px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.hhh {
+    margin-left: 80px;
+    margin-top: 5px;
+}
+
+.img1 {
+    margin-left: 120px;
+    margin-top: 20px;
+}
+
+.img1 img {
+    width: 100px;
+    height: 100px;
+}
+
+.img1 li {
+    list-style: none;
+}
+
+.vl {
+    margin-left: 80px;
+}
+
+.vl0 {
+    display: flex;
+    align-items: center;
+}
+
+.vl1 {
+    margin-top: -10px;
+    list-style: none;
+    margin-left: 39px;
+}
+.vl2 {
+    margin-top: -30px;
+    list-style: none;
+    margin-left: 19px;
+}
+.vl3 {
+    margin-top: -50px;
+    list-style: none;
+    margin-left: 9px;
+}
+
+.hihi3{
+    margin-left: 120px;
+}
+.hihi4{
+    margin-left: 80px;
+    font-size: 16px;
+}

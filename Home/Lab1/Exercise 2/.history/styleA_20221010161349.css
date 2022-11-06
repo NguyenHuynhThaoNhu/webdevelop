@@ -1,0 +1,21 @@
+body {
+  flex-direction: column;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  font-size: 22px;
+}
+
+.square {
+  margin: auto;
+  min-height: 100px;
+  min-width: 100px;
+  border-top: 1px solid rgb(47, 85, 235);
+  background-color: rgb(215, 213, 213);
+  margin-top: 45px;
+}
+
+.a {
+  font-size: 26px;
+  text-align: center;
+}

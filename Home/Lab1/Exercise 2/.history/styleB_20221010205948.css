@@ -1,0 +1,11 @@
+.pb {
+  flex-direction: row;
+  display: flex;
+  align-items: center;
+  /* justify-content: center; */
+}
+
+.squareb {
+  margin-top: 200px;
+  margin-bottom: -100px;
+}
