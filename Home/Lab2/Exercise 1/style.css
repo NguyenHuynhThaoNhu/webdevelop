@@ -1,0 +1,151 @@
+body {
+    margin: 0 25%;
+    background-color: ;
+}
+ .vertical-menu a {
+   background-color: black;
+   color: white  ;
+   display: block;
+   padding: 12px;
+   text-decoration: none;
+ }
+ 
+ .vertical-menu a:hover {
+   background-color: #5AB9C1;
+ }
+ 
+
+ .title-header-color{
+    color: #5AB9C1;
+    text-align: center;
+    font-size: 32px;
+ }
+
+.menu{
+    position: fixed;
+    right: 0;
+ }
+.profile {
+    text-align: center;
+    color: #FF6633;
+    font-size: 60px;
+}
+
+.student {
+    text-align: center;
+    margin-top: -40px;
+    font-size: 20px;   
+}
+
+.para{
+    font-size: 16px;
+}
+.aboutme{
+    color: #FF6633;
+    font-size: 30px;
+}
+
+.details{
+    color: #FF6633;
+    font-size: 30px;
+    margin-top: 85px;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.img {
+    width: 45%;
+    height: 35%;
+    margin-left: 135px;
+}
+
+.container1{
+    width: 100%;
+    height: 80%;
+    background-color: #FFFFCC;
+    padding: 32px;
+}
+
+.exper {
+    text-align: center;
+    font-size: 30px;
+    color:#FF6633;
+}
+
+.education {
+    margin-left: 15px;
+}
+
+.edu{
+    color:#FF6633;
+}
+
+.ISs{
+    margin-left: 400px;
+    margin-top: -75px;
+}
+
+hr {
+    width: 90%;
+}
+
+.text{
+    font-size: 20px;
+}
+
+.Abilities{
+    text-align: center;
+    font-size: 30px;
+    color: #FF6633;
+}
+
+.skills{
+    color: #FF6633;
+    font-size: 30px;
+    margin-left: 50px;
+    
+}
+
+.line{
+    display: flex;
+    align-items: center;  /* chieu doc */
+    justify-content: space-between;  /* chieu ngang */
+}
+
+.active{
+    color: #FF6633;
+}
+
+.button{
+    background-color: #FF6633;
+    height: 50px;
+    width: 200px;
+    color: #B5B5B5;
+}
+.github {
+    text-align: center;
+    margin: 20px;
+}
+
+button {
+    display: block;
+    margin: 16px auto;
+    font-size: 18px;
+    padding: 6px;
+    color: #fff;
+    background-color:#CC0000;
+    border: none;
+    border-radius: 5px;
+ }
+ 
+ button:hover {
+    cursor: pointer;
+    opacity: .8;
+ }
+
+ .project {
+    color: #FFFAF0;
+ }
